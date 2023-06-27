@@ -1,8 +1,9 @@
 Source: glx-alternatives
 Section: contrib/libs
 Priority: optional
-Maintainer: Debian NVIDIA Maintainers <pkg-nvidia-devel@lists.alioth.debian.org>
-Uploaders:
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian NVIDIA Maintainers <pkg-nvidia-devel@lists.alioth.debian.org>
+XSBC-Pexip-Original-Uploaders:
  Andreas Beckmann <anbe@debian.org>,
 Build-Depends:
  debhelper-compat (= 13),
@@ -10,6 +11,7 @@ Rules-Requires-Root: no
 Standards-Version: 4.6.2
 Vcs-Browser: https://salsa.debian.org/nvidia-team/glx-alternatives
 Vcs-Git: https://salsa.debian.org/nvidia-team/glx-alternatives.git
+XS-Pexip-Upstream: http://ftp.debian.org/debian/ bookworm
 
 Package: update-glx
 Section: contrib/x11
