@@ -1,3 +1,9 @@
+glx-alternatives (1.2.2pexip2) pexip-bookworm; urgency=medium
+
+  * Rebuild for bookworm
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 05 Dec 2023 14:36:24 +0000
+
 glx-alternatives (1.2.2pexip1) pexip; urgency=medium
 
   * Prepare Pexip packaging
