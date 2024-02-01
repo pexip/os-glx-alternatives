@@ -1,3 +1,9 @@
+glx-alternatives (1.2.2+pexip24u4) pexip-bookworm; urgency=medium
+
+  * New versioning scheme
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 01 Feb 2024 15:59:20 +0000
+
 glx-alternatives (1.2.2pexip3) pexip-bookworm; urgency=medium
 
   * Bookworm build for product distribution
