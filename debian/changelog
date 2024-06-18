@@ -1,3 +1,9 @@
+glx-alternatives (1.2.2+pexip24u5) pexip; urgency=medium
+
+  * Rebuild for move to main
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 18 Jun 2024 13:53:34 +0100
+
 glx-alternatives (1.2.2+pexip24u4) pexip-bookworm; urgency=medium
 
   * New versioning scheme
