@@ -1,3 +1,9 @@
+glx-alternatives (1.2.2+pexip25u1) pexip-trixie; urgency=medium
+
+  * Initial trixie build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 29 Apr 2025 22:32:36 +0100
+
 glx-alternatives (1.2.2+pexip24u5) pexip; urgency=medium
 
   * Rebuild for move to main
